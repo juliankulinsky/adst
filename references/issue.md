@@ -64,5 +64,5 @@ It would be beneficial to number all visualizations sequentially, as it will pro
 
 ### Further comments
 
-- You concentrated yourself on the most relevant points in your analysis, which is good. Keep it short and sweet. However, we propose you to think outside the box, diving deep into your data and trying to find the not obvious within the data. Your audience will be astonished 
+You concentrated yourself on the most relevant points in your analysis, which is good. Keep it short and sweet. However, we propose you to think outside the box, diving deep into your data and trying to find the not obvious within the data. Your audience will be astonished.
 
